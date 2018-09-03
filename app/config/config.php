@@ -1,4 +1,6 @@
 <?php
+    // Remember to change the details in this file to fit your new build
+
     // DB params
     define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
@@ -8,6 +10,6 @@
     // App root
     define('APPROOT', dirname(dirname(__FILE__)));
 
-    define('URLROOT', 'http://localhost/phpsandbox/SecondRound/');
+    define('URLROOT', 'http://localhost/phpsandbox/PHP_MVC_Framework/');
 
-    define('SITENAME', 'Shareposts');
+    define('SITENAME', 'PHP MVC Framework');
